@@ -87,4 +87,17 @@ return array (
     'tip' => '无需安装任何插件	',
     'id' => 'flv',
   ),
+  'ckm3u8' => 
+  array (
+    'status' => '1',
+    'from' => 'ckm3u8',
+    'show' => 'ckm3u8',
+    'des' => 'http://okzyw.com',
+    'target' => '_self',
+    'ps' => '1',
+    'parse' => '',
+    'sort' => '99',
+    'tip' => '在线播放,无需安装播放器',
+    'id' => 'ckm3u8',
+  ),
 );
